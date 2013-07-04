@@ -1,0 +1,6 @@
+[submodule "contiki"]
+	path = contiki
+	url = https://github.com/malvira/contiki.git
+[submodule "tinydtls"]
+	path = tinydtls
+	url = https://github.com/malvira/tinydtls-code.git
