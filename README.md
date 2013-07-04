@@ -7,6 +7,10 @@ maintenance easy (possible).
 Getting started
 ===============
 
+Make sure the submodules are updated:
+
+    git submodule update --init
+
 setup tinyDTLS
 
     ./setup.sh
